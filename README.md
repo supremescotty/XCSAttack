@@ -1,5 +1,6 @@
 # CS 528 - XCS attack mitigation
-This is a XCS attack mitigation tool used in a server side to check the file of a current folder
+This is a XCS attack mitigation tool used in a server side to check the file of a current folder.
+Co-authors and developers: Charles Melis and Jason Scott
 
 ## Getting started
 The tool has 2 sides : 
